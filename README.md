@@ -41,11 +41,7 @@
 ### My Spotify  
 <div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31qjabhi7yu6whvnvehx3bhinm7i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>  
 
-<br/>  
 
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=simplyydev&&style=flat-square" align="center" />
-</div>  
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
