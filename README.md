@@ -34,7 +34,7 @@
 <p><a href="https://www.buymeacoffee.com/simplyydev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplyydev" /></a><a href="https://ko-fi.com/simplyydev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="simplyydev" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simplyydev&show_icons=true&locale=en&layout=compact" alt="simplyydev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simplyydev&show_icons=true&locale=en&layout=compact" alt="simplyydev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simplyydev&show_icons=true&locale=en" alt="simplyydev" /></p>
 
