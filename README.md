@@ -13,12 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/simplyy.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplyy.dev" height="30" width="40" /></a>
 <a href="https://codepen.io/simplyydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="simplyydev" height="30" width="40" /></a>
 <a href="https://dev.to/simplyydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="simplyydev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/simplyydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simplyydev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22660483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22660483" height="30" width="40" /></a>
 <a href="https://kaggle.com/technologyforlife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="technologyforlife" height="30" width="40" /></a>
-<a href="https://instagram.com/simplyy.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplyy.dev" height="30" width="40" /></a>
 <a href="https://dribbble.com/simplyydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="simplyydev" height="30" width="40" /></a>
 <a href="https://medium.com/@simplyydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@simplyydev" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/simplyydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="simplyydev" height="30" width="40" /></a>
