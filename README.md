@@ -42,13 +42,24 @@
 </div>
 
 
+
+
+
+
+
+
+
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/simplyydev/simplyydev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/simplyydev/simplyydev/output/snake.svg" alt="Snake animation"  />
 
 ###
+
+
+
+
+
+
 
 
 ### ✍️ Random Dev Quote
